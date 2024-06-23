@@ -6,30 +6,45 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
 ## 🛠 Tech Stack
 
 - **Frontend**: 
+  - JavaScript
+  - TypeScript
   - React.js
-  - Vite
-  - Redux
+  - Redux / Redux ToolKit
 - **Backend**: 
   - Node.js
 - **Databases**: 
   - MongoDB
-- **Tools & Libraries**: 
-  - Axios
+- **Tools & Libraries**:
+  - TailwindCSS
+  - ModuleCSS
   - RTK
+  - Axios
   - Formik
   - Framer Motion
   - React Router
-  - And more!
+  - And much more!
 
 ## 🌟 Key Projects
 
-### [Money-Guard](https://github.com/your-username/money-guard)
+### [Money-Guard](https://github.com/Lubov1506/Money-Guard)
 A personal accounting application to track income and expenses with features such as:
 - Authorization system
 - Real-time currency exchange rates (USD and EUR)
 - Graphical statistics for monthly and yearly expenses/incomes
 - Responsive design for all devices
+Sure, here's a section for your GitHub profile README highlighting your portfolio project:
 
+### [Portfolio Website](https://github.com/Lubov1506/js-proj-portfolio)
+A sleek and responsive one-paged website showcasing skills and projects of a full-stack developer.
+
+- Responsive Design: Optimized for mobile, tablet, and desktop devices.
+- Smooth Scrolling: Enhanced user navigation with smooth scrolling.
+- Interactive Elements: Includes accordions and sliders for a dynamic user experience.
+- Toast Notifications: Stylish feedback for user interactions.
+
+---
+
+Feel free to customize the links and any other details as necessary. Let me know if you need any further adjustments!
 ## 📈 GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=DmytroLysachenko&show_icons=true&theme=radical)
