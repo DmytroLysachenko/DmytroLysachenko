@@ -39,7 +39,6 @@ A personal accounting application to track income and expenses with features suc
 - Responsive web design
 - RESTful API development
 - State management with Redux
-- Data visualization with Chart.js
 
 ## 📫 How to Reach Me
 
