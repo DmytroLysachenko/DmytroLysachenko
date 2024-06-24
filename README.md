@@ -18,10 +18,9 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
   - TailwindCSS
   - ModuleCSS
   - RTK
-  - Axios
-  - Formik
   - Framer Motion
   - React Router
+  - Axios
   - And much more!
 
 ## 🌟 Key Projects
@@ -32,7 +31,7 @@ A personal accounting application to track income and expenses with features suc
 - Real-time currency exchange rates (USD and EUR)
 - Graphical statistics for monthly and yearly expenses/incomes
 - Responsive design for all devices
-Sure, here's a section for your GitHub profile README highlighting your portfolio project:
+
 
 ### [Portfolio Website](https://github.com/Lubov1506/js-proj-portfolio)
 A sleek and responsive one-paged website showcasing skills and projects of a full-stack developer.
@@ -42,9 +41,7 @@ A sleek and responsive one-paged website showcasing skills and projects of a ful
 - Interactive Elements: Includes accordions and sliders for a dynamic user experience.
 - Toast Notifications: Stylish feedback for user interactions.
 
----
 
-Feel free to customize the links and any other details as necessary. Let me know if you need any further adjustments!
 ## 📈 GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=DmytroLysachenko&show_icons=true&theme=radical)
