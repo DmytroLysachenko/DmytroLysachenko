@@ -20,6 +20,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
   - RTK
   - Framer Motion
   - React Router
+  - REST APIs
   - Axios
   - And much more!
 
