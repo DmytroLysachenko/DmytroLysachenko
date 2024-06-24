@@ -47,11 +47,6 @@ A sleek and responsive one-paged website showcasing skills and projects of a ful
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=DmytroLysachenko&show_icons=true&theme=radical)
 
-## 💡 Skills
-
-- Responsive web design
-- RESTful API development
-- State management with Redux
 
 ## 📫 How to Reach Me
 
