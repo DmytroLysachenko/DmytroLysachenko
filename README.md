@@ -1,7 +1,7 @@
 
 # Hi there, I'm Dmytro Lysachenko! 👋
 
-Welcome to my GitHub profile! I'm a passionate software developer with a love for creating efficient and user-friendly applications. I enjoy turning complex problems into simple, beautiful, and intuitive solutions. Here, you'll find some of my projects and contributions.
+Welcome to my GitHub profile! I'm a passionate software developer with a love for creating efficient and user-friendly applications. I enjoy turning complex problems into simple, beautiful, and intuitive solutions.
 
 ## 🛠 Tech Stack
 
