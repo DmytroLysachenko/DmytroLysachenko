@@ -24,7 +24,6 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
   - Axios
   - And much more!
 
-
  📈 GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=DmytroLysachenko&show_icons=true&theme=radical)
