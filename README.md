@@ -9,7 +9,8 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
   - JavaScript
   - TypeScript
   - React.js
-  - Redux / Redux ToolKit
+  - Next.js
+  - Astro
 - **Backend**: 
   - Node.js
 - **Databases**: 
