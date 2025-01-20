@@ -13,11 +13,12 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
   - Astro
 - **Backend**: 
   - Node.js
+  - Express.js
 - **Databases**: 
   - MongoDB
+  - PostgreSQL
 - **Tools & Libraries**:
   - TailwindCSS
-  - ModuleCSS
   - RTK
   - Framer Motion
   - React Router
