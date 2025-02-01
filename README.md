@@ -11,19 +11,24 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
   - React.js
   - Next.js
   - Astro
+
 - **Backend**: 
   - Node.js
   - Express.js
+
 - **Databases**: 
   - MongoDB
   - PostgreSQL
+
 - **Tools & Libraries**:
   - TailwindCSS
   - RTK
   - Framer Motion
   - React Router
   - REST APIs
-  - Axios
+  - Prisma
+  - Drizzle
+  - Tanstack Query
   - And much more!
 
  📈 GitHub Stats
