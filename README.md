@@ -22,6 +22,8 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
 
 - **Tools & Libraries**:
   - TailwindCSS
+  - Shadcn/ui
+  - Chakra UI
   - RTK
   - Framer Motion
   - React Router
