@@ -9,7 +9,9 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
   - JavaScript
   - TypeScript
   - React.js
+  - React Native
   - Next.js
+  - Expo
   - Astro
 
 - **Backend**: 
@@ -25,8 +27,6 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
   - Shadcn/ui
   - Chakra UI
   - RTK
-  - Framer Motion
-  - React Router
   - REST APIs
   - Prisma
   - Drizzle
