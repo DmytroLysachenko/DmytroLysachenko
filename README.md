@@ -6,13 +6,14 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
  🛠 Tech Stack
 
 - **Frontend**: 
-  - JavaScript
+
   - TypeScript
+  - JavaScript
   - React.js
-  - React Native
   - Next.js
-  - Expo
   - Astro
+  - React Native
+  - Expo
 
 - **Backend**: 
   - Node.js
@@ -21,6 +22,9 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
 - **Databases**: 
   - MongoDB
   - PostgreSQL
+  - SQLite
+  - Drizzle ORM
+  - Prisma ORM
 
 - **Tools & Libraries**:
   - TailwindCSS
@@ -28,8 +32,6 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
   - Chakra UI
   - RTK
   - REST APIs
-  - Prisma
-  - Drizzle
   - Tanstack Query
   - And much more!
 
